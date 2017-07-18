@@ -57,7 +57,7 @@
 <p>例：accountCenter.html</p>
 
 
-##HTML
+## HTML
 
 ### 语法
 <ul>
