@@ -120,5 +120,3 @@ Vendors
  jquery-ui.scss
  select2.scss
 从另一个角度来说，在我平时工作中，还创建了一个vendors-extensions/文件夹，用来放置一些覆盖从外部引入进来的库和框架中的小组件。例如，我们可以在_bootstrap.scss文件中用来覆盖Bootstrap框架中的一些小组件。这为了避免和外部直接引来的组件升级造成的冲突，或许这不是一个很好的方案。
-
-![image](https://github.com/20160705/PA/tree/master/xpa_document/public/images/微信图片_20170623133144.gif)
